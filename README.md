@@ -1,28 +1,47 @@
-# RugShield Pro 🛡
+# 🛡 RugShield Pro
 
-AI-powered risk intelligence platform for Solana traders.
+AI Risk Intelligence for Solana Traders
 
-## Problem
+Detect rug pulls BEFORE they happen.
 
-Traders lose money to rug pulls, liquidity drains, and hidden contract risks.
+---
 
-## Solution
+## 🔍 Problem
+Traders lose money due to:
+- Hidden mint authority
+- Liquidity pulls
+- Dev wallet dumps
+- Token manipulation
 
-RugShield Pro analyzes token contracts in real time and provides clear risk insights before damage occurs.
+---
 
-## Features
+## 💡 Solution
+RugShield Pro provides:
+- Real-time risk scoring (0–100)
+- AI explanations of token risks
+- Wallet and liquidity monitoring
+- Early warning alerts
 
-* Risk score (0–100)
-* AI risk explanations
-* Liquidity tracking
-* Holder concentration analysis
-* Real-time alerts
-* Rug probability prediction
+---
 
-## Demo
-
+## 🚀 Live Demo
 https://app-ajw4issveo01.appmedo.com
 
-## Vision
+---
 
-To become the Bloomberg Terminal for on-chain risk intelligence.
+## 🎯 Target Users
+- Active Solana traders
+- Meme coin traders
+- Users who want safer trading decisions
+
+---
+
+## 🧠 Why It Matters
+Most tools show data AFTER the damage.
+
+RugShield Pro predicts risk BEFORE liquidity disappears.
+
+---
+
+## ⭐ Support
+If you like this project, please star the repo!
