@@ -25,7 +25,7 @@ RugShield Pro provides:
 ---
 
 ## 🚀 Live Demo
-https://app-ajw4issveo01.appmedo.com
+[https://app-ajw4issveo01.appmedo.com](https://bit.ly/rugshieldpro)
 
 ---
 
